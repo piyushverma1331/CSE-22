@@ -1,0 +1,40 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.container {
+    border: 2px solid rgb(174, 147, 147);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 50px;
+    padding: 20px;
+    margin: 40px;
+
+}
+.card{
+    background-color:aliceblue;
+    border: 2px solid hotpink;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 9px;
+    margin: 8px;
+    box-shadow: 0px 4px 8px;
+    width: 220px;
+
+
+}
+.circle img{
+    background-color: blue;
+    color: azure;
+    font-size: 20px;
+    border-radius:50px;
+    width: 70px;
+    height: 70px;
+    line-height:70px;
+    text-align: center;
+    font-weight: 67px;
+
+
+}
